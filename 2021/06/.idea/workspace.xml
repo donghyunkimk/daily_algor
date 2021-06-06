@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a5a2844b-9913-4e52-a942-ea0b9550810d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/05/1256. [SW 문제해결 응용] 6일차 - K번째 접미어.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/05/1259. [SW 문제해결 응용] 7일차 - 금속막대.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/06/1248. [SW 문제해결 응용] 3일차 - 공통조상.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/06.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/06.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,48 +17,44 @@
     <session id="-1292451604">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="3" />
+          <entry key="py" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="3" />
+          <entry key="Python" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1859" />
+          <entry key="py" value="3275" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="1859" />
+          <entry key="Python" value="3275" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/05/1259. [SW 문제해결 응용] 7일차 - 금속막대.py">
+        <entry file="file://$PROJECT_DIR$/06/1248. [SW 문제해결 응용] 3일차 - 공통조상.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="48" column="30" lean-forward="true" selection-end-line="57" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/05/1256. [SW 문제해결 응용] 6일차 - K번째 접미어.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="118">
-              <caret line="17" column="22" selection-end-line="29" selection-end-column="48" />
+            <state relative-caret-position="19">
+              <caret line="12" column="23" selection-end-line="82" selection-end-column="49" />
+              <folding>
+                <marker date="1622956636955" expanded="true" signature="75:451" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -78,6 +76,7 @@
       <list>
         <option value="$PROJECT_DIR$/05/1256. [SW 문제해결 응용] 6일차 - K번째 접미어.py" />
         <option value="$PROJECT_DIR$/05/1259. [SW 문제해결 응용] 7일차 - 금속막대.py" />
+        <option value="$PROJECT_DIR$/06/1248. [SW 문제해결 응용] 3일차 - 공통조상.py" />
       </list>
     </option>
   </component>
@@ -103,7 +102,7 @@
             <path>
               <item name="06" type="b2602c69:ProjectViewProjectNode" />
               <item name="06" type="462c0819:PsiDirectoryNode" />
-              <item name="05" type="462c0819:PsiDirectoryNode" />
+              <item name="06" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -114,7 +113,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.updates" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -128,7 +127,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1259. [SW 문제해결 응용] 7일차 - 금속막대">
+  <component name="RunManager" selected="Python.1248. [SW 문제해결 응용] 3일차 - 공통조상">
+    <configuration name="1248. [SW 문제해결 응용] 3일차 - 공통조상" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="06" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/06" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/06/1248. [SW 문제해결 응용] 3일차 - 공통조상.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="1256. [SW 문제해결 응용] 6일차 - K번째 접미어" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="06" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -174,9 +194,11 @@
     <list>
       <item itemvalue="Python.1256. [SW 문제해결 응용] 6일차 - K번째 접미어" />
       <item itemvalue="Python.1259. [SW 문제해결 응용] 7일차 - 금속막대" />
+      <item itemvalue="Python.1248. [SW 문제해결 응용] 3일차 - 공통조상" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1248. [SW 문제해결 응용] 3일차 - 공통조상" />
         <item itemvalue="Python.1259. [SW 문제해결 응용] 7일차 - 금속막대" />
         <item itemvalue="Python.1256. [SW 문제해결 응용] 6일차 - K번째 접미어" />
       </list>
@@ -197,15 +219,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32954547" />
@@ -213,6 +230,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -222,17 +243,27 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/05/1259. [SW 문제해결 응용] 7일차 - 금속막대.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="48" column="30" selection-end-line="57" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/05/1256. [SW 문제해결 응용] 6일차 - K번째 접미어.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
+        <state relative-caret-position="312">
           <caret line="17" column="22" selection-end-line="29" selection-end-column="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/05/1259. [SW 문제해결 응용] 7일차 - 금속막대.py">
+    <entry file="file://$PROJECT_DIR$/06/1248. [SW 문제해결 응용] 3일차 - 공통조상.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="48" column="30" lean-forward="true" selection-end-line="57" selection-end-column="11" />
+        <state relative-caret-position="19">
+          <caret line="12" column="23" selection-end-line="82" selection-end-column="49" />
+          <folding>
+            <marker date="1622956636955" expanded="true" signature="75:451" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
