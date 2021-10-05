@@ -1,14 +1,9 @@
 import timeit
 start_time = timeit.default_timer()  # 시작 시간 체크
 
-a = '0123456'
+number = [_ for _ in range(3,1000001,2)]
 
-b = {}
-b[a] = a
-c = b.get('d')
-
-print(b)
-print(c)
+print(number)
 
 
 terminate_time = timeit.default_timer()  # 종료 시간 체크
