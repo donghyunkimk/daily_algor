@@ -16,5 +16,3 @@ while True:
                 check = 1
         elif q%cur_num == 0:
             board[q] = -1
-
-    if
