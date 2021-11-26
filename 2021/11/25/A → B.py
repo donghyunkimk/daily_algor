@@ -3,6 +3,7 @@ from collections import deque
 
 a,b = map(int,sys.stdin.readline().split())
 
+# append, pop 쓸때는 deque가 []보다 빨라서 deque 사용
 temp = deque([a,1])
 ans = 1
 while len(temp):
